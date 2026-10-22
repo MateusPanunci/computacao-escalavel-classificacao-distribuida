@@ -1,0 +1,55 @@
+### --- IntelliJ IDEA Complete Rules ---
+# Covers the root IDE folder and all submodules
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# User-specific runtime states and editor caches
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+.idea/dataSources/
+.idea/dataSources.local.xml
+.idea/httpRequests/
+
+# Output directories created by IntelliJ direct compilation
+out/
+bin/
+
+### --- Java / Maven / Gradle Build Artifacts ---
+target/
+build/
+.gradle/
+*.class
+*.jar
+*.war
+*.ear
+
+### --- Scala & sbt Build Artifacts ---
+project/target/
+project/project/
+.bsp/
+.bloop/
+.metals/
+.history/
+
+### --- Operating System Caches ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### --- Project Datasets & Benchmarks ---
+# Prevents committing large data files (10k to 150k points)
+*.csv
+*.tsv
+*.parquet
+*.json
+*.log
+datasets/
+data/
