@@ -25,7 +25,7 @@ Conforme os requisitos da disciplina, o desenvolvimento foi dividido em duplas r
 | Integrante | GitHub | Responsabilidade |
 | :--- | :--- | :--- |
 | **Guilherme Costanzi** | [@guihcostanzi](https://github.com/guihcostanzi) | Dupla 1 — Naive Bayes |
-| **Rafael Figueiredo Cobo** | [@seu-usuario-aqui](https://github.com/) | Dupla 1 — Naive Bayes |
+| **Rafael Figueiredo Cobo** | [@rfcob](https://github.com/rfcob) | Dupla 1 — Naive Bayes |
 | **Mateus Panunci Gonçalves** | [@MateusPanunci](https://github.com/MateusPanunci) | Dupla 2 — Regressão Logística |
 | **Alexandre da Silva Marchioli** | [@asmarchioli](https://github.com/asmarchioli) | Dupla 2 — Regressão Logística |
 
